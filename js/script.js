@@ -72,7 +72,6 @@ addtotrolleybtnDom.forEach(addtotrolleybtnDom => {
     
 
       <div class="p-2">
-      <label for="totalY" id="totalY"></label>
 
         <button class="btn badge-danger" type="button" data-action="clear-trolley">Clear Trolley
       </div>
@@ -85,22 +84,7 @@ addtotrolleybtnDom.forEach(addtotrolleybtnDom => {
   
 
 
-            <label for="asd" id="asd"></label>
-
-            <label for="${trolleyTotal}">${trolleyTotal}</label>
-            <input type="textarea" id="${trolleyTotal}" name="${trolleyTotal}"><br/>
-
-            
-      <label for="total">${trolleyTotal}</label>
-      <select name="total" id="total">
-      <option value="${trolleyTotal}">Select</option>
-      </select>
-
-
-      <label for="productPrice">ProductPrice</label>
-      <select name="productPrice" id="productPrice">
-      <option value=${trolleyProductsandPrices}>Select</option>
-      </select>
+                  <label for="totalY" id="totalY"></label>
 
 
 
