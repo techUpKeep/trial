@@ -87,7 +87,7 @@ addtotrolleybtnDom.forEach(addtotrolleybtnDom => {
 
             <label for="asd" id="asd"></label>
 
-            <label for="${trolleyTotal}">Name</label>
+            <label for="${trolleyTotal}">${trolleyTotal}</label>
             <input type="textarea" id="${trolleyTotal}" name="${trolleyTotal}"><br/>
 
             
