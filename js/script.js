@@ -82,14 +82,21 @@ addtotrolleybtnDom.forEach(addtotrolleybtnDom => {
       <input type="hidden" name="_captcha" value="false">
       <input type="hidden" name="_next" value="https://techupkeep.github.io/trial/thankyou.html">
   
-<input type="hidden" name="_subject" value="subject hee=e hdj">
-
+$.ajax({
+    url: "https://formsubmit.co/ajax/phatumakushu@gmail.com",
+    method: "POST",
+    data: {
+        name: "FormSubmit",
+        message: "I'm from Devro LABS"
+    },
+    dataType: "json"
+});
 
 
 
                   <label for="totalY" id="totalY">abcd</label>
 
-                  <label for="twenty">14.50</label>
+                  <label for="twenty">15.00</label>
 
 
 
