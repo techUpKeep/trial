@@ -86,6 +86,7 @@ addtotrolleybtnDom.forEach(addtotrolleybtnDom => {
 
                   <label for="totalY" id="totalY">abcd</label>
 
+                  <label>abcd</label>
 
 
 
