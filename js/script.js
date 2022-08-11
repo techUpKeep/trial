@@ -82,13 +82,14 @@ addtotrolleybtnDom.forEach(addtotrolleybtnDom => {
       <input type="hidden" name="_captcha" value="false">
       <input type="hidden" name="_next" value="https://techupkeep.github.io/trial/thankyou.html">
   
+<input type="hidden" name="_subject" value=${totalY}>
+
 
 
 
                   <label for="totalY" id="totalY">abcd</label>
 
-                  <label>abcd</label>
-                  <label for="twenty">14.20</label>
+                  <label for="twenty">14.30</label>
 
 
 
